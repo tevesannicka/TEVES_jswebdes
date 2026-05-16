@@ -1,0 +1,1 @@
+alert("This page says\n\nHello Javascript");
